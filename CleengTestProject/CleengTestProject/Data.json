@@ -1,0 +1,73 @@
+{
+    "status": true,
+    "events": [
+               {
+               "offerId": "E110522248_US",
+               "title": "Modern Day Bodhisattva  Seminar with Dzigar Kongtrul Rinpoche (E249454852_US)",
+               "price": "$99.95 (Season Pass)",
+               "desc": "",
+               "startTime": 1463941006,
+               "endTime": 1467033006,
+               
+               "videourl": "http:\/\/qthttp.apple.com.edgesuite.net\/1010qwoeiuryfg\/sl.m3u8",
+               "type": "LIVE",
+               
+               "posterSD": "http:\/\/cdn.cleeng.com\/roku-demo\/cleengppv\/prod\/E250096004_US_1465196743.jpg",
+               "posterHD": "http:\/\/cdn.cleeng.com\/roku-demo\/cleengppv\/prod\/E250096004_US_1465196743.jpg",
+               
+               "purchaseurl": "http:\/\/bit.ly\/1R6yTx3",
+               "supporturl": "http:\/\/www.cleeng.com\/"
+               },
+               {
+               "offerId": "E612725692_US",
+               "title": "2016 NFINITY CHAMPIONS LEAGUE (E612725692_US)",
+               "price": "$99.95 (Season Pass)",
+               "desc": "",
+               "startTime": 1461333600,
+               "endTime": 1461376800,
+               
+               "videourl": "http:\/\/clips.vorwaerts-gmbh.de\/VfE_html5.mp4",
+               "type": "REPLAY",
+               
+               "posterSD": "http:\/\/cdn.cleeng.com\/roku-demo\/nhra\/prod\/P628932926_US_1459846388.jpg",
+               "posterHD": "http:\/\/cdn.cleeng.com\/roku-demo\/nhra\/prod\/P628932926_US_1459846388.jpg",
+               
+               "purchaseurl": "http:\/\/bit.ly\/1R6yTx3",
+               "supporturl": "http:\/\/www.nhraallaccess.com\/"
+               },
+               {
+               "offerId": "E235138257_JM",
+               "title": "Machel Monday (E235138257_JM)",
+               "price": "$99.95 (Season Pass)",
+               "desc": "",
+               "startTime": 1461333600,
+               "endTime": 1461376800,
+               
+               "videourl": "http:\/\/clips.vorwaerts-gmbh.de\/VfE_html5.mp4",
+               "type": "REPLAY",
+               
+               "posterSD": "http:\/\/cdn.cleeng.com\/roku-demo\/cleengppv\/prod\/E674597967_US_1465196821.jpg",
+               "posterHD": "http:\/\/cdn.cleeng.com\/roku-demo\/cleengppv\/prod\/E674597967_US_1465196821.jpg",
+               
+               "purchaseurl": "http:\/\/bit.ly\/1R6yTx3",
+               "supporturl": "http:\/\/www.nhraallaccess.com\/"
+               },
+               {
+               "offerId": "E172654602_US",
+               "title": "EU2016 Elegant Simplicity - LIVE BROADCAST (E172654602_US)",
+               "price": "$99.95 (Season Pass)",
+               "desc": "",
+               "startTime": 1461333600,
+               "endTime": 1461376800,
+               
+               "videourl": "http:\/\/qthttp.apple.com.edgesuite.net\/1010qwoeiuryfg\/sl.m3u8",
+               "type": "LIVE",
+               
+               "posterSD": "http:\/\/cdn.cleeng.com\/roku-demo\/cleengppv\/prod\/E249454852_US_1461575133.jpg",
+               "posterHD": "http:\/\/cdn.cleeng.com\/roku-demo\/cleengppv\/prod\/E249454852_US_1461575133.jpg",
+               
+               "purchaseurl": "http:\/\/bit.ly\/1R6yTx3",
+               "supporturl": "http:\/\/www.nhraallaccess.com\/"                
+               }
+               ]
+}

@@ -1,0 +1,10 @@
+framework module CleengAPIFRamework {
+  umbrella header "CleengAPIFRamework.h"
+
+  export *
+  module * { export * }
+}
+
+module CleengAPIFRamework.Swift {
+    header "CleengAPIFRamework-Swift.h"
+}
